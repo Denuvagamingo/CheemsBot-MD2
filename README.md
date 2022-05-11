@@ -77,7 +77,7 @@ heroku/nodejs
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD2.git
+git clone https://github.com/Denuvagamingo/CheemsBot-MD2
 cd CheemsBot-MD2
 npm start
 ```
@@ -93,7 +93,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD2
+git clone https://github.com/Denuvagamingo/CheemsBot-MD2
 cd CheemsBot-MD2
 npm start
 ```
@@ -105,7 +105,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD2
+git clone https://github.com/Denuvagamingo/CheemsBot-MD2
 cd CheemsBot-MD2
 npm start
 ```
